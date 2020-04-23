@@ -42,4 +42,4 @@ client.on('message', message => {
 
 
 
-client.login(key).listen(process.env.PORT);
+client.login(key);
